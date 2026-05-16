@@ -288,33 +288,3 @@ materials/
 更完整的新手教程见：
 
 [undergraduate-vehicle-engineering-learning-usage-guide.md](./undergraduate-vehicle-engineering-learning-usage-guide.md)
-
-## 上传 GitHub 前的建议
-
-如果这个仓库会公开，请先检查 `大学课程/` 目录中是否包含：
-
-- 受版权保护的教材 PDF
-- 教师课件
-- 答案手册
-- 个人实验报告
-- 个人学号、姓名、邮箱等隐私信息
-
-如果包含上述内容，建议不要公开上传，或者将 `大学课程/` 从公开仓库中移除，只保留 skill 本体和教程。
-
-推荐公开上传的内容：
-
-- `.agents/skills/undergraduate-vehicle-engineering-learning/`
-- `README.md`
-- `undergraduate-vehicle-engineering-learning-usage-guide.md`
-
-谨慎上传的内容：
-
-- `大学课程/`
-- 教材 PDF
-- solution manual
-- 试卷答案
-- 个人报告
-
-## License
-
-当前项目尚未指定开源协议。公开发布前建议补充 `LICENSE` 文件。
